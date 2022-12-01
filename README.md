@@ -1,1 +1,1 @@
-# FP-terraform
+AWS infrastructure for final project via terraform
